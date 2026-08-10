@@ -1,5 +1,5 @@
 import java.util.*;
-public class mutliple_1 {
+public class mutliple_2 {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         System.out.println("enter n");
